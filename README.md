@@ -77,17 +77,33 @@ The system provides results in several formats:
 
 ### 🚀 Getting Started with Installation
 
-1. **Prerequisites**:
-   ```bash
-   pip install streamlit librosa numpy keras tensorflow
-   ```
+To run the project locally, follow these steps:
 
-2. **Running the Application**:
-   ```bash
-   streamlit run app.py
-   ```
+1. Clone the repository:
 
-3. **Using the Interface**:
+```cmd
+git clone https://github.com/Yuvraj0014/Capuchin-Bird-Call-Detection.git
+cd Capuchin-Bird-Call-Detection
+```
+
+2. Setup a virtual environment (optional but recommended)
+```cmd
+python -m venv venv
+source venv/bin/activate  # For Linux/MacOS
+venv\Scripts\activate  # For Windows
+```
+
+3. Install required dependencies
+```cmd
+pip install -r requirements.txt
+```
+
+4. Run the streamlit app
+```cmd
+streamlit run app.py
+```
+
+5. **Using the Interface**:
    - Navigate to the provided local URL
    - Upload audio files using the file uploader
    - Wait for processing and view results
