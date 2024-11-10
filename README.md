@@ -109,58 +109,7 @@ The current model achieves:
 
 ## 🔮 Future Scope
 
-### 1. Technical Enhancements
-- **Model Improvements**:
-  - Integration of more advanced deep learning architectures
-  - Implementation of transfer learning techniques
-  - Enhanced noise reduction algorithms
-  - Multi-species detection capabilities
-
-- **Real-time Processing**:
-  - Live audio stream analysis
-  - Mobile application development
-  - Edge device deployment
-  - Low-latency processing optimization
-
-### 2. Feature Expansions
-- **Advanced Analytics**:
-  - Temporal pattern analysis
-  - Geographical distribution mapping
-  - Population density estimation
-  - Behavioral pattern recognition
-
-- **User Interface Enhancements**:
-  - Interactive spectrogram visualization
-  - Customizable detection thresholds
-  - Batch processing capabilities
-  - Mobile-responsive design
-
-### 3. Research Applications
-- **Ecological Studies**:
-  - Integration with climate data
-  - Habitat monitoring systems
-  - Migration pattern tracking
-  - Ecosystem health assessment
-
-### 4. Integration & Deployment
-- **Hardware Integration**:
-  - Support for specialized recording devices
-  - IoT device compatibility
-  - Autonomous recording units
-
-- **Cloud Services**:
-  - Scalable cloud deployment
-  - API development
-  - Database integration
-  - Automated backup systems
-
-### 5. Conservation Tools
-- **Monitoring Systems**:
-  - Automated population tracking
-  - Habitat disturbance detection
-  - Conservation effectiveness assessment
-  - Early warning systems
-
+The Capuchin Bird Call Detection System has significant potential for expansion and enhancement in multiple directions. Future developments could include real-time audio processing capabilities for live monitoring, integration with mobile applications for field researchers, and support for multi-species bird call detection to broaden its ecological impact. The system could be enhanced with advanced machine learning techniques such as transfer learning and automated model retraining to improve accuracy and reduce false positives. Integration with IoT devices and autonomous recording units would enable widespread deployment in remote locations, while the addition of geographical mapping and temporal analysis features would provide valuable insights for conservation efforts. Looking ahead, the project aims to evolve into a comprehensive ecosystem monitoring tool by incorporating climate data analysis, population density estimation, and habitat health assessment capabilities, making it an invaluable resource for wildlife researchers, conservationists, and environmental scientists.
 
 ## 🙏 Acknowledgments
 
