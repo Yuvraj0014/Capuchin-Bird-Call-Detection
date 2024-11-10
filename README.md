@@ -75,7 +75,7 @@ The system provides results in several formats:
    example2.wav: No Capuchin Bird Call Found with 92.45% confidence
    ```
 
-### 🚀 Getting Started
+### 🚀 Getting Started with Installation
 
 1. **Prerequisites**:
    ```bash
