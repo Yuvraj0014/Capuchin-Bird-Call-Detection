@@ -161,19 +161,10 @@ The current model achieves:
   - Conservation effectiveness assessment
   - Early warning systems
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## 🙏 Acknowledgments
 
 - Thanks to the wildlife recording community for providing training data
-- Special thanks to all contributors and researchers in bioacoustics
 - Powered by TensorFlow and Streamlit
 
----
-*For more information about Capuchin birds and their conservation, please visit relevant wildlife conservation websites.*
+
