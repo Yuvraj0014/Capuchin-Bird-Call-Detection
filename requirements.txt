@@ -1,8 +1,0 @@
-Numpy
-Pandas
-Scikit-learn
-Matplotlib
-Scipy
-Seaborn
-keras
-librosa
