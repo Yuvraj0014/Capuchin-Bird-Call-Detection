@@ -31,6 +31,18 @@ This project implements a deep learning-based system for detecting Capuchin bird
    - Provides real-time processing and feedback
    - Displays confidence scores for detections
 
+## 💻 Requirements
+
+1. tensorflow
+2. Numpy
+3. Pandas
+4. Scikit-learn
+5. Matplotlib
+6. Scipy
+7. Seaborn
+8. keras
+9. librosa
+
 ### 💻 How It Works
 
 1. **Audio Input**:
