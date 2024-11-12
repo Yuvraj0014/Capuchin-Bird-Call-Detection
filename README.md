@@ -123,13 +123,13 @@ The current model achieves:
 - Robust performance across various audio qualities
 - Real-time processing capabilities
 
+## 📸 Application Interface
+Below is a screenshot of the application's user interface showing the input parameters and prediction output. The interface is designed to be user-friendly with clear sections for data input and prominent display of the churn prediction results.
+![image](https://github.com/user-attachments/assets/5a172630-a3ac-4fbf-949d-a7aa6d641c3c)
+
+## 🎯 Output Screen
+![image](https://github.com/user-attachments/assets/15d7defa-7458-43ea-b5fc-f0005c6cc5cb)
+
 ## 🔮 Future Scope
 
 The Capuchin Bird Call Detection System has significant potential for expansion and enhancement in multiple directions. Future developments could include real-time audio processing capabilities for live monitoring, integration with mobile applications for field researchers, and support for multi-species bird call detection to broaden its ecological impact. The system could be enhanced with advanced machine learning techniques such as transfer learning and automated model retraining to improve accuracy and reduce false positives. Integration with IoT devices and autonomous recording units would enable widespread deployment in remote locations, while the addition of geographical mapping and temporal analysis features would provide valuable insights for conservation efforts. Looking ahead, the project aims to evolve into a comprehensive ecosystem monitoring tool by incorporating climate data analysis, population density estimation, and habitat health assessment capabilities, making it an invaluable resource for wildlife researchers, conservationists, and environmental scientists.
-
-## 🙏 Acknowledgments
-
-- Thanks to the wildlife recording community for providing training data
-- Powered by TensorFlow and Streamlit
-
-
