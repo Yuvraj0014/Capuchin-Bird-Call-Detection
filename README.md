@@ -43,6 +43,40 @@ This project implements a deep learning-based system for detecting Capuchin bird
 8. keras
 9. librosa
 
+
+## Installation
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+
+```cmd
+git clone https://github.com/Yuvraj0014/Capuchin-Bird-Call-Detection.git
+Capuchin-Bird-Call-Detection
+```
+
+2. Setup a virtual environment (optional but recommended)
+```cmd
+python -m venv venv
+source venv/bin/activate  # For Linux/MacOS
+venv\Scripts\activate  # For Windows
+```
+
+3. Install required dependencies
+```cmd
+pip install -r requirements.txt
+```
+
+4. Run the streamlit app
+```cmd
+streamlit run app.py
+```
+
+## Results 
+Too lazy to adult today? Join the club! Ditch the to-do list and dive into the Streamlight app instead. It's right here, waiting for you!
+```
+capuchin-bird-call-detection-abc.streamlit.app
+```
+
 ### 💻 How It Works
 
 1. **Audio Input**:
