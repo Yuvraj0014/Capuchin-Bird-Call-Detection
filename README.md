@@ -19,7 +19,7 @@ This project implements a deep learning-based system for detecting Capuchin bird
 
 ### 🛠️ Technical Architecture
 
-1. **Audio Processing Pipeline**:
+1. **Audio Processing**:
    - Loads audio files using librosa library
    - Converts audio into mel spectrograms for analysis
    - Preprocesses data to match the model's input requirements
