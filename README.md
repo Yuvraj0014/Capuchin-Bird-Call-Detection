@@ -96,7 +96,6 @@ capuchin-bird-call-detection-abc.streamlit.app
 3. **Model Prediction**:
    - Preprocessed audio is fed into the trained model
    - Model generates confidence scores
-   - Scores above 50% indicate positive detection
 
 4. **Results Display**:
    - Audio player for each uploaded file
