@@ -51,7 +51,7 @@ To run the project locally, follow these steps:
 
 ```cmd
 git clone https://github.com/Yuvraj0014/Capuchin-Bird-Call-Detection.git
-Capuchin-Bird-Call-Detection
+cd Capuchin-Bird-Call-Detection
 ```
 
 2. Setup a virtual environment (optional but recommended)
